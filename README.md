@@ -22,7 +22,7 @@
 1. Please select a location with some surplus disk space and run the following command:
 
     ```bash
-    git clone -b 2.0 https://github.com/QingdaoU/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
+    git clone -b 2.0 https://github.com/TounWatanabe/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
     ```
 
 2. Start service
