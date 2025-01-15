@@ -22,4 +22,6 @@ Tùy theo tốc độ mạng, quá trình thiết lập có thể được hoàn
 
 Truy cập cổng HTTP 80 hoặc cổng HTTPS 443 của máy chủ thông qua trình duyệt và bạn có thể bắt đầu sử dụng nó. Đường dẫn quản lý nền là `/admin`, tên người dùng quản trị viên cấp cao được tự động thêm trong quá trình cài đặt là `root` và mật khẩu là `rootroot`. **Nếu bạn đăng nhập thành công, vui lòng đổi mật khẩu tài khoản ngay lập tức.**.
 
-Tài liệu gốc (Tiếng Anh + Tiếng Trung): http://opensource.qduoj.com/
+Tài liệu gốc (tiếng Anh + tiếng Trung): http://opensource.qduoj.com/
+
+Mình sẽ dịch tài liệu gốc sang tiếng Việt sau :))
