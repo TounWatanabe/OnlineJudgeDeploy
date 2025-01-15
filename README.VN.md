@@ -24,4 +24,4 @@ Truy cập cổng HTTP 80 hoặc cổng HTTPS 443 của máy chủ thông qua tr
 
 Tài liệu gốc (tiếng Anh + tiếng Trung): http://opensource.qduoj.com/
 
-Mình sẽ dịch tài liệu gốc sang tiếng Việt sau :))
+Mình sẽ dịch sang tiếng Việt sau :))
