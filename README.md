@@ -1,3 +1,5 @@
+English | [Tiếng Việt](https://github.com/TounWatanabe/OnlineJudgeDeploy/blob/2.0/README.VN.md)
+
 ## Install
 
 1. Install [Docker](https://www.docker.com/)
